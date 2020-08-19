@@ -1,5 +1,5 @@
 # TREX-GAME
-
+A python implementation of Chromes Dino Game, using pygame.
 
 ## HOME SCREEN
 <img src="https://github.com/xavierohan/TREX-GAME/blob/master/Home%20Screen.png" width="300">
