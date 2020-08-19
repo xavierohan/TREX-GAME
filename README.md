@@ -2,8 +2,10 @@
 
 
 # HOME SCREEN
-![alt text](https://github.com/xavierohan/TREX-GAME/blob/master/Home%20Screen.png)
+<img src="https://github.com/xavierohan/TREX-GAME/blob/master/Home%20Screen.png" width="300">
+
 
 
 # PLAYING SCREEN
-![alt text](https://github.com/xavierohan/TREX-GAME/blob/master/Playing%20Screen.png)
+<img src="https://github.com/xavierohan/TREX-GAME/blob/master/Playing%20Screen.png" width="300">
+
