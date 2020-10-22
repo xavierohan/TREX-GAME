@@ -16,4 +16,6 @@ python trex_chrome2.py
 
 ## GAMEPLAY
 
+Give it some time to Load.
+
 <img src="https://github.com/xavierohan/TREX-GAME/blob/master/gameplay.gif" width="300">
